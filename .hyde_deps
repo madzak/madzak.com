@@ -1,0 +1,8 @@
+!!python/unicode 'about.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'advanced/grouper.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'advanced/overview.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'advanced/sorter.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'advanced/tagger.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'first-steps.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'index.html': [macros.j2, ga.j2, base.j2]
+!!python/unicode 'media/css/style.css': []
