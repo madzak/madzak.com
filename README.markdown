@@ -33,7 +33,7 @@ The simplest way to use this layout is to:
 ## Usage
 ### Built-in Templates
 
-There are a variety of templates that you can subclass using `{% extends "templatename.j2" %} on the top of your article
+There are a variety of templates that you can subclass using `{% extends "templatename.j2" %}` on the top of your article
 or post.
 
   * `base.j2` - Contains the bulk of the layout logic, but not the best for subclassing because it doesn't have any grid attached to it.
